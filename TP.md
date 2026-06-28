@@ -7,4 +7,7 @@
 ## TP3: Problemas de diferentes paradigmas
 > https://docs.google.com/spreadsheets/d/1WhT8OFzteAakbMAd4iq4WLB27z__1Coz/edit?gid=1837626046#gid=1837626046
 
-## TP4:
+## TP4: Identificar la gramática del IF
+> https://drive.google.com/file/d/19GiY930CFI9cpSjTBDYhMptPycup1l8m/view?usp=sharing
+
+## TP5: Tabla GIC, BNF, EBNF Y ABNF del lenguaje BRA
