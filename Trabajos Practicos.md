@@ -73,3 +73,6 @@
 > 
 > _operador_ :  
 >           unode **+** **-**
+
+## TP6: Mapa conceptual Subprogramas
+> <img width="1751" height="671" alt="TP6 drawio" src="https://github.com/user-attachments/assets/91d719c9-597e-49fb-ad2f-15314e53191c" />
