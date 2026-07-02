@@ -6,6 +6,9 @@
 
 ## TP3: Problemas de diferentes paradigmas
 > [TP3: Problemas de diferentes paradigmas](https://docs.google.com/spreadsheets/d/1WhT8OFzteAakbMAd4iq4WLB27z__1Coz/edit?gid=1837626046#gid=1837626046)
+> - [Problema 1](https://drive.google.com/file/d/14P9XbLg2ULnW7pDtmpiYHLzOjOXziow2/view?usp=sharing)
+> - [Problema 2](https://drive.google.com/file/d/1IIQHLSoZlDVi_3zfctOQ6ZxDyT8BVYF7/view?usp=sharing)
+> - [Problema 3](https://drive.google.com/file/d/1ehiFWclB05ZLAT9EHiflamxji67M0RWa/view?usp=sharing)
 
 ## TP4: Identificar la gramática del IF
 > [TP4: Identificar la gramática del IF](https://drive.google.com/file/d/19GiY930CFI9cpSjTBDYhMptPycup1l8m/view?usp=sharing)
