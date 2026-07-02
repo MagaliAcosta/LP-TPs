@@ -1,14 +1,14 @@
 ## TP1: Clasificación de los lenguajes
-> https://docs.google.com/spreadsheets/d/1a6mgeLaqPP6j4A0av_z63PFeIYNzUHPpnHn3JcD8C6M/edit
+> <a href="https://docs.google.com/spreadsheets/d/1a6mgeLaqPP6j4A0av_z63PFeIYNzUHPpnHn3JcD8C6M/edit" target="_blank" rel="noopener noreferrer">TP1: Clasificación de los lenguajes</a>
 
 ## TP2: Análisis de datos
-> https://colab.research.google.com/drive/1BXw_IA4-zQg94kvr6XQLJypS2uxc07YA
+> <a href="https://colab.research.google.com/drive/1BXw_IA4-zQg94kvr6XQLJypS2uxc07YA" target="_blank" rel="noopener noreferrer">TP2: Análisis de datos</a>
 
 ## TP3: Problemas de diferentes paradigmas
-> https://docs.google.com/spreadsheets/d/1WhT8OFzteAakbMAd4iq4WLB27z__1Coz/edit?gid=1837626046#gid=1837626046
+> <a href="https://docs.google.com/spreadsheets/d/1WhT8OFzteAakbMAd4iq4WLB27z__1Coz/edit?gid=1837626046#gid=1837626046" target="_blank" rel="noopener noreferrer">TP3: Problemas de diferentes paradigmas</a>
 
 ## TP4: Identificar la gramática del IF
-> https://drive.google.com/file/d/19GiY930CFI9cpSjTBDYhMptPycup1l8m/view?usp=sharing
+> <a href="https://drive.google.com/file/d/19GiY930CFI9cpSjTBDYhMptPycup1l8m/view?usp=sharing" target="_blank" rel="noopener noreferrer">TP4: Identificar la gramática del IF</a>
 
 ## TP5: Tabla GIC, BNF, EBNF Y ABNF del lenguaje BRA
 > GIC  
